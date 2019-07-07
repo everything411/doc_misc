@@ -1,0 +1,3 @@
+# arch_linux_install_guide
+
+基于官方Wiki编写的Arch Linux安装指南，可能有很多BUG
